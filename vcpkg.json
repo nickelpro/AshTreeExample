@@ -1,0 +1,13 @@
+{
+  "name": "ash-tree",
+  "version": "0.0.1",
+  "description": "Consumer of the House",
+  "homepage": "https://github.com/nickelpro/AshTreeExample",
+  "maintainers": [
+    "Minotaur <vito@gamberini.email>"
+  ],
+  "license": "CC0-1.0",
+  "dependencies": [
+    "navidson"
+  ]
+}

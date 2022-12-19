@@ -1,0 +1,17 @@
+{
+  "default-registry": {
+    "kind": "git",
+    "baseline": "a22a711815e5f1f0838d76508db8b96f7da54d91",
+    "repository": "https://github.com/microsoft/vcpkg.git"
+  },
+  "registries": [
+    {
+      "kind": "git",
+      "baseline": "d35757f47e6acfe560e370331f6e509adf7988f2",
+      "repository": "https://github.com/nickelpro/vito-reg.git",
+      "packages": [
+        "navidson"
+      ]
+    }
+  ]
+}
